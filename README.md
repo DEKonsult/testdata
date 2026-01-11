@@ -1,3 +1,3 @@
 # Repository testdata
 
-Temporary experiments to manage test data on GitHub.
+Experiments to manage test data on GitHub, and to generated documentation on GitHub pages.
